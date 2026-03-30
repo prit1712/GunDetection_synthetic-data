@@ -1,2 +1,1 @@
 - 'best.pt' is a weight file, of hand detection model used in this project, to generatre artificial (synthetic) dataset
-- 
